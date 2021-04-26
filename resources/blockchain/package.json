@@ -4,7 +4,7 @@
     "fs-extra": "5.0.0",
     "ganache-cli": "6.1.6",
     "singularitynet-platform-contracts": "3.0.0",
-    "singularitynet-token-contracts": "new version",
+    "singularitynet-token-contracts": "3.0.0",
     "truffle": "4.1.13",
     "truffle-contract": "3.0.6",
     "command-line-args": "5.0.2"
